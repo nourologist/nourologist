@@ -2,7 +2,7 @@
 
 I’m a Python web developer from Toronto, Canada, relocating to the UK in the summer of 2026. After a stint in management consulting and some soul-searching I found I like to build real things myself, not just advise executives who do.
 
-🛠️ I enjoy building with Python, and Django in particular, but I plan to be full-stack eventually
+🛠️ I enjoy building with Python 🐍 and Django in particular 🦄 but I plan to be full-stack
 
 👭 I build community wherever I go: I’m a PyLadies Toronto co-organizer and most recently a DjangoCon Europe volunteer 
 
