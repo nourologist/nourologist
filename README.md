@@ -4,12 +4,12 @@ I’m a Python web developer from Toronto, Canada, relocating to the UK in the s
 
 🛠️ I enjoy building with Python 🐍 and Django in particular 🦄 but I plan to be full-stack
 
-👭 I build community wherever I go: I’m a PyLadies Toronto co-organizer and a DjangoCon Europe 2026 volunteer 
+👭 I build community wherever I go: I’m a PyLadies Toronto organizer and a DjangoCon Europe 2026 volunteer 
 
-📈 Unlike most developers I have no problem understanding business concerns, talking to leaders in their language, and working across teams
+📈 Unlike many developers I have no problem understanding business concerns, talking to leaders in their language, and working across teams
 
 ❤️ I care about open source software, an independent web, and leaving the world in a better place than I found it
 
 ✈️ In my spare time I travel, read classic literature, and experiment with microcontrollers
 
-📍 I have long-term authorization to work in the UK, and I’m looking for roles that begin this summer or early fall
+📍 I have long-term work authorization for the UK, and I’m looking for roles that begin this summer or early fall
