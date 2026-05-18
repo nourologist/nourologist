@@ -12,4 +12,4 @@ I’m a Python web developer from Toronto, Canada, relocating to the UK in the s
 
 ✈️ In my spare time I travel, read classic literature, and experiment with microcontrollers
 
-📍 I have long-term work authorization for the UK, and I’m looking for roles that begin this summer or early fall
+📍 I have long-term work authorization for the UK, and I’m looking for backend Python roles that begin this summer or early fall
